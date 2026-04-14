@@ -1,0 +1,7 @@
+[2026-04-14T15:33:48Z] === AST ITERATION 1 START | repo=erdewit/nest_asyncio sha=19f396f9 ===
+[2026-04-14T15:33:48Z] [iter=1] PHASE START: ast repo=erdewit/nest_asyncio sha=19f396f9
+[2026-04-14T15:33:48Z] [iter=1] Building AST aggregate chunks
+[2026-04-14T15:33:49Z] [iter=1] AST chunks built count=1 triples=12729
+[2026-04-14T15:33:49Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/19f396f9396bfd34b1b0caeb9b4c631ee3d7eb21/.complete
+[2026-04-14T15:33:49Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-04-14T15:33:49Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
