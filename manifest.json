@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "erdewit",
+  "repo": "nest_asyncio",
+  "versions": [
+    {
+      "commit": "19f396f9396bfd34b1b0caeb9b4c631ee3d7eb21",
+      "parsed_at": "2026-04-14T15:29:19.218375+00:00",
+      "tag": "v1.6.0",
+      "filetree": "filetree/19f396f9396bfd34b1b0caeb9b4c631ee3d7eb21.nq.gz",
+      "blobs": [
+        "blob/b19a8d44a9886bdb0839b433d9fca5f47d957621.nq.gz",
+        "blob/ff9fbedb49cc271890582f0c6f8c454acbd9d7d2.nq.gz",
+        "blob/d74bb79213bfffc5352160f8fedc4884bbd92a49.nq.gz",
+        "blob/a9db5a536f314d9b7faa94f99d9fcbd8a07c7412.nq.gz",
+        "blob/1cb5c253fa0658a0adea3516f6463904396cf573.nq.gz",
+        "blob/065cc87368b36ede418c888a28920622944c4ec8.nq.gz",
+        "blob/076dbfeea267828ad2086f94b14bf4ee667d2b33.nq.gz",
+        "blob/26e08e48e8f82869ef1dec35972ee25826efecfb.nq.gz",
+        "blob/e920253bfa5afeb6c5a551553fdae1847ddff262.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/5f713a454862488e41aeb5a03abf55e51a3d2a84.nq.gz",
+        "blob/ac450e30899281e84e3ca524a09a57b612b76a80.nq.gz",
+        "blob/f5b4001b0a54dc255103e9d70a51881db058fc88.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
